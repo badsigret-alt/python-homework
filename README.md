@@ -1,3 +1,3 @@
 # python-homework
-# python-homework
-# python-homework
+
+## นายอธิวัฒน์ รัตนโสภา 6812732140
